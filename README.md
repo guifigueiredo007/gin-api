@@ -1,5 +1,7 @@
 # API in Go using the GIN framework
 
+* This project was designed to be an API for a bookstore application.
+
 ## Functionalities
 
 * GET: books (all or by id)
